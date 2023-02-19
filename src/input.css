@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.letter-spacing {
+    letter-spacing: 3px;
+}
+
+.custom-color{
+    color: #ffce3e ;
+}
+
+.custom-bg-color{
+    background-color: #1f1520;
+}
+
+.button-color{
+    background-color: #ffce3e ;
+}
+
